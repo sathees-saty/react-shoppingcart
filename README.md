@@ -28,5 +28,8 @@ Step 5: npm start
 <br>
 Step 6: run http://localhost:3000/ in browser
 <br>
+![shoppingcart1](https://github.com/sathees-saty/react-shoppingcart/assets/65384711/88af87c8-f237-4710-811c-d28059cb275f)
+<br>
+  ![shoppingcart2](https://github.com/sathees-saty/react-shoppingcart/assets/65384711/143fd358-ac4b-4655-9337-afbfc1b9226a)
 
 </html>
