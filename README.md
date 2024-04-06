@@ -2,7 +2,7 @@
 
 <html>
   <br>
- Step 1: npx create-react-app shoppingcart <<Project_Name>>
+ Step 1: npx create-react-app shoppingcart ie: Project_Name
 <br>
 npx is a package runner tool that comes with npm 5.2+ and can be used to create a new React app. The create-react-app command is commonly used with NPX, and it doesn't require installation.
 <br>
